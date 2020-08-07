@@ -80,7 +80,9 @@ main {
 	margin-left: auto;
 	margin-right: auto;
 }
-.step:last-chld {
+.step:last-child {
 	margin-bottom: 0;
+	margin-right: auto;
+	margin-left:auto;
 }
 }
